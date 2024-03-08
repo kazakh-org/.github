@@ -1,6 +1,6 @@
 ## **Kazakh-Org Project Description:**
 
-**Project Name:** Kazakh-Org: Community for Open Source
+**Project Name:** Kazakh-Org: Community for 100% Open Source
 
 **Mission:**
 
